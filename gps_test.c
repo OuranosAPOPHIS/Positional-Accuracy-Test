@@ -2,8 +2,10 @@
  * Team Ouranos
  * Project: Aerial Platform for Overland Haul and Import System (APOPHIS)
  *
- *  Created On: Feb 7, 2017
- *      Author(s): Brandon Klefman
+ *   Created On: Feb 7, 2017
+ *  Last Edited: Feb 16, 2017
+ *    Author(s): Brandon Klefman
+ *               Damian Barraza
  *
  *      Purpose: GNC Subsystem validation test software for the GPS Test.
  *
