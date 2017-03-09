@@ -7,7 +7,7 @@
  *    Author(s): Brandon Klefman
  *               Damian Barraza
  *
- *      Purpose: GNC Subsystem validation test software for the GPS Test.
+ *      Purpose: GNC Subsystem validation test software for the Positinal Accuracy Test.
  *
  */
 
